@@ -17,5 +17,3 @@ This course is a 14 weeks long and it covers the following sections:
 - 1.9 Introduction to Pandas
 - 1.10 Summary
 - 1.11 Homework
-
-Alexey Grigorev
